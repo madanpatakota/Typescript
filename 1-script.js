@@ -1,4 +1,4 @@
-// Ts <---- Js 
+// Ts <---- Js  + features
 var customer_IDone = 1;
 customer_IDone = 1234;
 var customer_one = "1233";
